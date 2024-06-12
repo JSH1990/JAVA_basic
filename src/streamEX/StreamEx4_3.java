@@ -1,4 +1,4 @@
-package stream;
+package streamEX;
 
 import java.util.Arrays;
 import java.util.stream.Stream;

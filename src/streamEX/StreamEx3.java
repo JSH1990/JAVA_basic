@@ -1,4 +1,4 @@
-package stream;
+package streamEX;
 
 import java.util.Comparator;
 import java.util.stream.Stream;
